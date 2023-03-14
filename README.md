@@ -27,8 +27,6 @@ a tela com o resumo é suprimida automaticamente. Ao concluir o processo simulad
 Para testar a aplicação, basta baixar o arquivo do projeto em formato zip no link abaixo, extrair o arquivo, acessar a pasta PI e abrir o
 arquivo "index.html" com o seu navegador. Para logar usar o nome de usuário "teste11@gmail.com" e a senha "teste1".
 
-https://github.com/LaercioPaiva/PI-senac/archive/refs/heads/main.zip
-
 <h4 align="left">Tecnologias</h4>
 
 Para desenvolvimento do sistema usamos HTML, CSS e JavaScript em todo o desenvolvimento, para validação do usuário foi usado a ferramenta Firebase.
